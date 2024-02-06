@@ -5,7 +5,7 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto">
       
 <li><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">🌍</g-emoji>&nbsp; I'm based in Mumbai, Maharashtra</li>
-<li><g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji>&nbsp; See my portfolio at <a href="https://pratikpagnis-portfolio.vercel.app/" target="_blank" rel="nofollow">Portfolio</a></li>
+<li><g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji>&nbsp; See my portfolio at <a href="https://pratikpagnis-portfolio.vercel.app/" target="_blank">Portfolio</a></li>
 <li><g-emoji class="g-emoji" alias="brain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png">🧠</g-emoji>&nbsp; Currently learning TypeScript</li>
 <li><g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji>&nbsp; I'm open to collaborating on interesting projects as a developer</li>
 </ul>
